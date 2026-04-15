@@ -14,7 +14,7 @@ import design from '../assets/images/design.png'
 import Sculpt from '../assets/images/Sculpt.png'
 import Polish from '../assets/images/Polishpng.png'
 import Del from '../assets/images/De.png'
-import shiv from '../assets/images/Shiv.png'
+import shiv from '../assets/images/shiv.png'
 import logo_saras from '../assets/images/image.png'
 import whatsapp_img from "../assets/images/whatsapp.png";
 
