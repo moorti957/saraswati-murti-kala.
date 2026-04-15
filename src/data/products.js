@@ -5,11 +5,11 @@ import hanuman from '../assets/images/Hanuman.png'
 import ganesh from '../assets/images/Ganesh.png'
 import sai_baba_seated from '../assets/images/sai_baba_1.png'
 import radha_krishna from '../assets/images/radha_krishna_Pair.png'
-import Custom_Temple from '../assets/images/Custom_Temple.png'
+import custom_temple from '../assets/images/custom_temple.png'
 import Small_Krishna from '../assets/images/Small_Krishna.png'
 import Hanuman_Flying from '../assets/images/hanuman1.png'
 import Ganesh_Standing from '../assets/images/Ganesh_Standing.png'
-import Krishna_With from '../assets/images/Krishna_With.png'
+import krishna_with from '../assets/images/krishna_with.png'
 import sai_baba_2 from '../assets/images/sai_baba2.png'
 import sai_baba_3 from '../assets/images/sai_baba3.png'
 import kar_1 from '../assets/images/kar3.png'
@@ -61,7 +61,7 @@ export const products = [
     size: "medium", 
     price: 32000, 
    
-    images: [ Krishna_With, kar_1, kar_2, kar_3 ], // ✅ FIX
+    images: [ krishna_with, kar_1, kar_2, kar_3 ], // ✅ FIX
     material: "White Makrana Marble", 
     height: "24 inch", 
     finish: "Polished with gold leaf", 
@@ -152,7 +152,7 @@ export const products = [
     category: "custom", 
     size: "xlarge", 
     price: 0, 
-    image: Custom_Temple,
+    image: custom_temple,
     material: "As per requirement", 
     height: "Custom", 
     finish: "Custom", 
