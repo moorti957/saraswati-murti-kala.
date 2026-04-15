@@ -4,19 +4,19 @@ import durga from '../assets/images/durga_maa.png'
 import hanuman from '../assets/images/hanuman.png'
 import ganesh from '../assets/images/ganesh.png'
 import sai_baba_seated from '../assets/images/sai_baba_1.png'
-import radha_krishna from '../assets/images/radha_krishna_Pair.png'
+import radha_krishna from '../assets/images/radha_krishna_pair.png'
 import custom_temple from '../assets/images/custom_temple.png'
-import Small_Krishna from '../assets/images/Small_Krishna.png'
-import Hanuman_Flying from '../assets/images/hanuman1.png'
-import Ganesh_Standing from '../assets/images/Ganesh_Standing.png'
+import small_krishna from '../assets/images/small_krishna.png'
+import hanuman_flying from '../assets/images/hanuman_flying.png'
+import ganesh_standing from '../assets/images/ganesh_standing.png'
 import krishna_with from '../assets/images/krishna_with.png'
 import sai_baba_2 from '../assets/images/sai_baba2.png'
 import sai_baba_3 from '../assets/images/sai_baba3.png'
 import kar_1 from '../assets/images/kar3.png'
 import kar_2 from '../assets/images/kar2.png'
 import kar_3 from '../assets/images/kar_4.png'
-import duar_1 from '../assets/images/duar2.png'
-import duar_2 from '../assets/images/dur1.png'
+import duar_1 from '../assets/images/duar_2.png'
+import duar_2 from '../assets/images/duar_1.png'
 import hnu_2 from '../assets/images/hnu2.png'
 import hnu_3 from '../assets/images/hun3.png'
 import gan_2 from '../assets/images/gan2.png'
@@ -165,7 +165,7 @@ export const products = [
     category: "krishna", 
     size: "small", 
     price: 12000, 
-    image: Small_Krishna, 
+    image: small_krishna, 
     material: "White Marble", 
     height: "8 inch", 
     finish: "Polished with paint", 
@@ -178,7 +178,7 @@ export const products = [
     category: "hanuman", 
     size: "large", 
     price: 48000, 
-    image: Hanuman_Flying, 
+    image: hanuman_flying, 
     material: "Premium Marble", 
     height: "36 inch", 
     finish: "Dynamic paint finish", 
@@ -191,7 +191,7 @@ export const products = [
     category: "ganesh", 
     size: "medium", 
     price: 22000, 
-    image: Ganesh_Standing,
+    image: ganesh_standing,
     material: "Makrana Marble", 
     height: "18 inch", 
     finish: "Gold & white", 
